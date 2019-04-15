@@ -1,0 +1,50 @@
+.contact-btn {
+margin:auto;
+color:white;}
+
+.contact-btn a {
+cursor:pointer;
+padding:8px 18px;
+border:1px solid #204156;
+position:relative;}
+
+.contact-btn a:active {
+top:2px;}
+
+/*.logo-rotateY-btn img{
+width:100px;
+height:35px;
+cursor:pointer;
+padding:2px 4px;
+border:1px solid #FF1111;
+position:relative;}*/
+
+.logo-rotateY-btn img {
+position:relative;}
+
+.logo-rotateY-btn img:active{
+ transform: rotate3d(-200,0,200,180deg);
+transition-duration:1.5s;}
+
+.logo-rotateX-btn a {
+position:relative;}
+
+.logo-rotateX-btn img:active{
+transform:rotate(360deg);
+transition-duration:0.8s;}
+
+/*body {
+background-color:black;}*/
+
+#div123 {
+position:absolute;
+left:50%;
+box-shadow:10px 10px;}
+
+#div123:hover{
+transform:scale(2.5);
+transition-duration:0.8s;}
+
+.flex-container {
+display:flex;
+flex-direction:wrap;}
