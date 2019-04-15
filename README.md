@@ -4,17 +4,21 @@
 
 <head>
 
-<title>
-
-This is my new page
-
-</title>
-
 </head>
 
 <body>
 
-123
+<p>New paragraph</p>
+
+<ul>
+
+<li>1</li>
+
+<li>2</li>
+
+<li>3</li>
+
+</ul>
 
 </body>
 
