@@ -10,6 +10,8 @@
 
 <p>New paragraph</p>
 
+<center>
+
 <ul>
 
 <li>1</li>
@@ -19,6 +21,8 @@
 <li>3</li>
 
 </ul>
+
+</center>
 
 </body>
 
